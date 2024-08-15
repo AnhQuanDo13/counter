@@ -1,0 +1,27 @@
+Coverage Report Summary Data by instance
+
+=================================================================================
+=== Instance: /test_bench/dut
+=== Design Unit: work.counter
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                         4         4         0   100.00%
+    Expressions                      1         1         0   100.00%
+    Statements                       6         6         0   100.00%
+    Toggles                         16        16         0   100.00%
+
+=================================================================================
+=== Instance: /test_bench
+=== Design Unit: work.test_bench
+=================================================================================
+    Enabled Coverage              Bins      Hits    Misses  Coverage
+    ----------------              ----      ----    ------  --------
+    Branches                        16         8         8    50.00%
+    Conditions                       6         0         6     0.00%
+    Statements                      74        49        25    66.21%
+    Toggles                         26        26         0   100.00%
+
+
+Total Coverage By Instance (filtered view): 65.75%
+

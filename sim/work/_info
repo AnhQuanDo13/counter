@@ -1,0 +1,71 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/quan/Desktop/project/09_ss9/counter_hw/sim
+T_opt
+!s110 1723717311
+V:C[BLzI29fBFDKd@TiR0>2
+04 10 4 work test_bench fast 0
+=1-000ae431a4f1-66bdd6be-a9b08-aea
+R0
+!s12b OEM100
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -G MEALY_FSM=0 -debugdb +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vcounter
+Z3 2../rtl/counter.v|../tb/test_bench.v
+Z4 !s110 1723717305
+!i10b 1
+!s100 BVAV@2@b?Jn>4Ik?dlIh70
+Id3b>>k4>>=P3h[nzVUM1c3
+R1
+Z5 w1722013564
+8../rtl/counter.v
+F../rtl/counter.v
+!i122 0
+L0 1 23
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z8 !s108 1723717305.000000
+Z9 !s107 ../tb/test_bench.v|../rtl/counter.v|
+Z10 !s90 -f|compile.f|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtest_bench
+R3
+R4
+!i10b 1
+!s100 oWgb`N801KUO?b@8e<z_Q2
+I>NQdF:2]R_D>R?7e>hZD]3
+R1
+R5
+8../tb/test_bench.v
+F../tb/test_bench.v
+!i122 0
+L0 4 151
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R2
